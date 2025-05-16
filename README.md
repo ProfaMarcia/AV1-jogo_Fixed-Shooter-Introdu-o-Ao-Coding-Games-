@@ -26,3 +26,5 @@ O jogador controla uma nave que se movimenta apenas na horizontal (eixo X) na pa
 2. Compile o arquivo `.java` com o comando: javac FixedShooterGame.java
 3. Execute o jogo com o comando: java FixedShooterGame
 
+## Screenshot do jogo
+![Screenshot do jogo](imagens/Captura de tela 2025-05-16 144237.png)
