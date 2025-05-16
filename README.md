@@ -27,4 +27,4 @@ O jogador controla uma nave que se movimenta apenas na horizontal (eixo X) na pa
 3. Execute o jogo com o comando: java FixedShooterGame
 
 ## Screenshot do jogo
-![Screenshot do jogo]("imagens/Captura de tela 2025-05-16 144237.png")
+![Screenshot do jogo]("imagens/jogo1.png")
