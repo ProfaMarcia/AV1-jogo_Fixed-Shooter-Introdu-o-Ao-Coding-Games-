@@ -1,6 +1,6 @@
 # Fixed Shooter Game - Java
 
-Este é um jogo do tipo **Fixed Shooter**, inspirado no clássico *Space Invaders*, desenvolvido em Java para a atividade proposta no curso de Game Designer.
+Este é um jogo do tipo **Fixed Shooter**, inspirado no clássico *Space Invaders*, desenvolvido em Java para a atividade proposta no curso de Game Design.
 
 ## Sobre o jogo
 
